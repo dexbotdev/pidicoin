@@ -28,7 +28,7 @@ const FormContainer = () => {
                 </a>
               </div>
               <div className={styles.li3}>
-                <a className={styles.a} href="#Telegram">
+                <a className={styles.a} href="https://t.me/pidispybot">
                   <div className={styles.link}>Telegram</div>
                 </a>
               </div>
