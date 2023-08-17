@@ -1,0 +1,83 @@
+.pidicoin {
+  position: absolute;
+  top: 0.81rem;
+  left: 0;
+  letter-spacing: 0.1px;
+  line-height: 2rem;
+}
+.colMd3,
+.navbarBrand {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.navbarBrand {
+  position: relative;
+  width: 11.69rem;
+  height: 3.63rem;
+}
+.colMd3 {
+  width: 14.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facebookIcon,
+.twitterIcon {
+  position: relative;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.twitterIcon {
+  height: 1.24rem;
+}
+.colMd31,
+.row,
+.socialMedia {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.socialMedia {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-xl);
+}
+.colMd31,
+.row {
+  justify-content: flex-start;
+}
+.colMd31 {
+  width: 14.75rem;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.row {
+  flex-direction: row;
+  gap: var(--gap-558xl-5);
+}
+.container,
+.div {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.container {
+  left: calc(50% - 525px);
+  width: 65.63rem;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-21xl) 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div {
+  left: calc(50% - 720px);
+  width: 90rem;
+  height: 8.88rem;
+  text-align: left;
+  font-size: var(--h3-size);
+  color: var(--light-text-color);
+  font-family: var(--h6);
+}

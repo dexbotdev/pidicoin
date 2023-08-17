@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --h6: Montserrat;
+
+  /* font sizes */
+  --h6-size: 0.88rem;
+  --h5-size: 1rem;
+  --h3-size: 1.5rem;
+  --h2-size: 2.5rem;
+  --hero-size: 4.5rem;
+
+  /* Colors */
+  --light-text-color: #fff;
+  --primary-color: #327db5;
+  --color-gainsboro-100: #e6e6e6;
+  --color-gainsboro-200: #dedede;
+  --second-text-color: #737373;
+  --dark-background-color: #252b42;
+  --disabled-element-color: #8ec2f2;
+  --alert-color: #e77c40;
+
+  /* Gaps */
+  --gap-11xl: 1.88rem;
+  --gap-xl: 1.25rem;
+  --gap-3xs: 0.63rem;
+  --gap-558xl-5: 36.09rem;
+  --gap-61xl: 5rem;
+  --gap-16xl: 2.19rem;
+  --gap-mini: 0.94rem;
+  --gap-77xl: 6rem;
+  --gap-101xl: 7.5rem;
+  --gap-8xs: 0.31rem;
+  --gap-21xl: 2.5rem;
+  --gap-2xl: 1.31rem;
+
+  /* Paddings */
+  --padding-31xl: 3.13rem;
+  --padding-21xl: 2.5rem;
+  --padding-93xl: 7rem;
+  --padding-35xl: 3.38rem;
+  --padding-61xl: 5rem;
+  --padding-mini: 0.94rem;
+  --padding-141xl: 10rem;
+  --padding-5xl: 1.5rem;
+  --padding-17xl: 2.25rem;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-181xl: 200px;
+  --br-4xs: 9px;
+  --br-18xl: 37px;
+
+  /* Effects */
+  --light-dropshadow: 0px 2px 4px rgba(237, 234, 234, 0.74);
+}

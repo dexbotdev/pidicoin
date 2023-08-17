@@ -1,0 +1,120 @@
+.h2,
+.paragraph {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 3.56rem;
+}
+.paragraph {
+  font-size: var(--h6-size);
+  line-height: 1.25rem;
+  font-weight: 500;
+  text-align: center;
+}
+.mainContent,
+.row {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mainContent {
+  width: 39.06rem;
+  gap: var(--gap-3xs);
+}
+.row {
+  width: 39.56rem;
+}
+.h5 {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 1.5rem;
+}
+.cardItem,
+.colMd4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cardItem {
+  background-color: var(--light-text-color);
+  width: 20.5rem;
+  overflow: hidden;
+  padding: var(--padding-31xl) var(--padding-21xl);
+  box-sizing: border-box;
+  align-items: center;
+}
+.colMd4 {
+  width: 20.44rem;
+  height: 19rem;
+  align-items: flex-start;
+}
+.forGiveawaysMarketing {
+  margin: 0;
+}
+.cardItem1,
+.colMd41 {
+  flex-direction: column;
+}
+.cardItem1 {
+  background-color: var(--primary-color);
+  width: 20.5rem;
+  overflow: hidden;
+  display: flex;
+  padding: var(--padding-35xl) var(--padding-21xl) var(--padding-61xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.colMd41 {
+  width: 20.56rem;
+  height: 12.13rem;
+  align-items: flex-start;
+  color: var(--light-text-color);
+}
+.colMd41,
+.colMd42,
+.container,
+.row1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.colMd42 {
+  width: 20.56rem;
+  height: 0.06rem;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container,
+.row1 {
+  align-items: center;
+}
+.row1 {
+  flex-direction: row;
+  text-align: center;
+  font-size: var(--h5-size);
+  color: var(--dark-background-color);
+}
+.container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 525px);
+  width: 65.63rem;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-93xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-61xl);
+}
+.contact4 {
+  position: relative;
+  background-color: var(--dark-background-color);
+  width: 90rem;
+  height: 50.88rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--light-text-color);
+  font-family: var(--h6);
+}

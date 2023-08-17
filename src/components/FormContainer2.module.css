@@ -1,0 +1,134 @@
+.h2FeatureSection1 {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 3.56rem;
+}
+.gettingAccessTo {
+  margin: 0;
+}
+.paragraph {
+  position: relative;
+  font-size: var(--h6-size);
+  letter-spacing: 0.2px;
+  line-height: 1.25rem;
+  font-weight: 500;
+}
+.mainContent {
+  gap: var(--gap-3xs);
+}
+.mainContent,
+.row {
+  width: 37.94rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.video1Icon {
+  position: relative;
+  width: 37rem;
+  height: 27.63rem;
+  object-fit: cover;
+}
+.colMd7 {
+  width: 38.56rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div {
+  width: 30.31rem;
+}
+.icnSettingsIcnMd {
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.h5,
+.h6 {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 1.5rem;
+}
+.h6 {
+  font-size: var(--h6-size);
+  letter-spacing: 0.2px;
+  font-weight: 600;
+}
+.cardItem,
+.div1,
+.flexRow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div1 {
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.cardItem,
+.flexRow {
+  overflow: hidden;
+}
+.flexRow {
+  flex-direction: row;
+  gap: var(--gap-xl);
+}
+.cardItem {
+  border-radius: var(--br-4xs);
+  width: 30.31rem;
+  flex-direction: column;
+}
+.cardItem1 {
+  width: 20.81rem;
+  overflow: hidden;
+}
+.colMd4 {
+  width: 30.31rem;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-11xl);
+}
+.about2,
+.colMd4,
+.container,
+.row1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.row1 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-101xl);
+  text-align: left;
+  font-size: var(--h5-size);
+}
+.about2,
+.container {
+  overflow: hidden;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.container {
+  width: 67.81rem;
+  padding: var(--padding-93xl) 0;
+  align-items: center;
+  gap: var(--gap-77xl);
+}
+.about2 {
+  background-color: var(--primary-color);
+  width: 90rem;
+  flex-shrink: 0;
+  padding: 0 var(--padding-141xl);
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--h2-size);
+  color: var(--light-text-color);
+  font-family: var(--h6);
+}
